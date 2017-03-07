@@ -1,0 +1,4 @@
+http://www.alcoplaza.ru/alcocadmin/index.php     GGgrad+2016
+http://www.cigarpro.ru/netcat/admin/ логин yadmin пароль-GGgrad+2016
+http://www.alco.moscow/alcocadmin/login.php GGgrad+2016
+http://www.cru.ru/alcocadmin/index.php GGgrad+2016
